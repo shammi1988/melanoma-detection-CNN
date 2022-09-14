@@ -55,7 +55,12 @@ Vascular lesion
 
 ## Conclusions
 
+- Accuracy on training data has increased by using Augmentor library
+- Model is still overfitting
+- The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+- The Model can be further improved by tuning the hyperparameter
 
+![image](https://user-images.githubusercontent.com/5121619/190126633-4950e5a6-e77d-4dd7-9b86-0173989d8a7e.png)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
